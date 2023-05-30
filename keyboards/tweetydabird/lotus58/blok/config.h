@@ -5,3 +5,7 @@
 //using raw pin values, blok converter doesn't catch this
 #define I2C0_SDA_PIN 17U
 #define I2C0_SCL_PIN 16U
+
+#define SERIAL_USE_MULTI_TRANSACTION
+#define SPLIT_MODS_ENABLE
+#define SPLIT_TRANSPORT_MIRROR
