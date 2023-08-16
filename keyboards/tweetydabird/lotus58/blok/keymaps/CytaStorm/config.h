@@ -5,3 +5,4 @@
 #pragma once
 
 #undef SPLIT_OLED_ENABLE
+#undef SPLIT_USB_DETECT
